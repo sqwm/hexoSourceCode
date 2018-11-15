@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-29T12:51:40.501Z</updated>
+  <updated>2018-11-15T11:59:04.292Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,55 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>hexo使用笔记</title>
+    <link href="http://yoursite.com/2018/11/15/hexo/"/>
+    <id>http://yoursite.com/2018/11/15/hexo/</id>
+    <published>2018-11-15T11:44:41.000Z</published>
+    <updated>2018-11-15T11:59:04.292Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-文档目的"><a href="#1-文档目的" class="headerlink" title="1.文档目的"></a>1.文档目的</h2><p>该文档用于自己及时查看，并快速上手继续写博客<br>参考网址：<a href="https://hexo.io/zh-cn/docs/commands" target="_blank" rel="noopener">hexo官方文挡</a></p><h2 id="2-快速编写博客"><a href="#2-快速编写博客" class="headerlink" title="2.快速编写博客"></a>2.快速编写博客</h2><p>1.查看自己远程博客：<a href="https://zhuxiaobotongxue.github.io/" target="_blank" rel="noopener">https://zhuxiaobotongxue.github.io/</a><br>2.本地化启动服务：<strong>hexo server</strong><br>3.如何生成一篇博客(如：git1)：<strong>hexo new post git1</strong><br>4.编辑博客，<a href="https://www.jianshu.com/p/191d1e21f7ed" target="_blank" rel="noopener">markdown语法</a><br>5.编译博客： <strong>hexo generate</strong><br>6.部署至远程：<strong>hexo deploy</strong><br>7.备份原代码：<strong>git push</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;1-文档目的&quot;&gt;&lt;a href=&quot;#1-文档目的&quot; class=&quot;headerlink&quot; title=&quot;1.文档目的&quot;&gt;&lt;/a&gt;1.文档目的&lt;/h2&gt;&lt;p&gt;该文档用于自己及时查看，并快速上手继续写博客&lt;br&gt;参考网址：&lt;a href=&quot;https://hexo.i
+      
+    
+    </summary>
+    
+    
+      <category term="tools" scheme="http://yoursite.com/tags/tools/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/10/16/hello-world/"/>
+    <id>http://yoursite.com/2018/10/16/hello-world/</id>
+    <published>2018-10-16T10:19:36.546Z</published>
+    <updated>2018-10-16T10:19:36.546Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>开发者工具</title>
     <link href="http://yoursite.com/2018/06/29/googledev/"/>
     <id>http://yoursite.com/2018/06/29/googledev/</id>
     <published>2018-06-29T12:49:28.000Z</published>
-    <updated>2018-06-29T12:51:40.501Z</updated>
+    <updated>2018-10-16T10:19:36.546Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-Elements"><a href="#1-Elements" class="headerlink" title="1.Elements"></a>1.Elements</h2><p>ctrl+shift+c        选取dom元素<br>ESC                在Elements面板可以用打开Console<br>在Elements元素面板中可以通过键盘方向键折叠和向上向下快速选择节点,<br>同时面包屑导航会给出层级结构,<br>按住并拖动节点可以移动节点位置,<br>查看元素事件侦听器,选中对应元素,打开Elements-&gt;Event Listeners,进一步打开对应选择器后,在handler上单击右键选择show function definition,可以查看具体方法定义,<br>单击节点,右键Break on可以为节点添加Dom事件监听,在Elements-&gt;DOM Breakpoints面板可以查看详情,<br>鼠标悬停在Elements-&gt;Styles面板对应css名称上可以查看受影响的Dom,<br>在对应css右下角有小图标可以调整颜色和阴影,<br>编辑数字和css属性值时,可以使用键盘箭头增大缩小,也可以使用鼠标滚轮,<br>Ctrl+点击任何css属性可以直接跳转至对应文件相应行</p><h2 id="2-Console"><a href="#2-Console" class="headerlink" title="2.Console"></a>2.Console</h2><p>提供了一个命令行接口，用来与网页代码互动。<br>F12                打开DevTools<br>ctrl+shift+J        打开控制台并定位光标<br>ctrl+L            清空控制台<br>console.log(‘aaa’);<br>console.info(‘aaa’);<br>console.error(‘aaa’);<br>console.warn(‘aaa’);<br>分组日志<br>console.group(‘aaa’);<br>console.log(‘我是aaa小组的日志’);<br>console.groupEnd();<br>断言日志<br>console.assert(false,’当第一个参数为false时输出该条消息’);<br>统计执行次数日志<br>function myFun(){<br>    console.count(‘myFun被执行的次数’);<br>}<br>myFun();<br>myFun();<br>输出对象的属性和方法<br>console.dir(document.body);<br>统计代码执行时间<br>console.time(“Array initialize”);<br>var array=new Array(1000000);<br>for(var i=array.length - 1;i&gt;=0;i–){<br>    array[i] = new Object();<br>};<br>console.timeEnd(“Array initialize”);<br>查看代码执行对cpu的使用情况<br>console.profile(“Array initialize”);<br>var array=new Array(1000000);<br>for(var i=array.length - 1;i&gt;=0;i–){<br>    array[i] = new Object();<br>};<br>console.profileEnd(“Array initialize”);<br>执行完成后在Profiles面板里面查看就可以看到cpu相关使用信息<br>复制选中的DOM结构至剪切板<br>copy(document.body);<br>输出对象的键或值对<br>var myObj = {name:’xiaoming’,sex:’female’};<br>keys(myObj);<br>values(myObj);<br>用表格样式输出json格式数组<br>var myArray = [{“name”:”xiaoming”},{“sex”:”12”}];<br>console.table(myArray);</p><p>console.log(‘%c This text is styled!’,<br>  ‘color: red; background: yellow; font-size: 24px;’<br>)</p><p>var number = 11 * 9;<br>var color = ‘red’;<br>console.log(‘%d %s balloons’, number, color);</p><p>%s 字符串<br>%d 整数<br>%i 整数<br>%f 浮点数<br>%o 对象的链接<br>%c CSS格式字符串</p><p>debugger</p>]]></content>
     
@@ -44,7 +88,7 @@
     <link href="http://yoursite.com/2018/06/25/git6/"/>
     <id>http://yoursite.com/2018/06/25/git6/</id>
     <published>2018-06-25T12:30:27.000Z</published>
-    <updated>2018-06-25T13:34:59.938Z</updated>
+    <updated>2018-10-16T10:19:36.546Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-配置-初始化-常规操作"><a href="#1-配置-初始化-常规操作" class="headerlink" title="1.配置/初始化/常规操作"></a>1.配置/初始化/常规操作</h2><p>git –version<br>git help<br>git config –help<br>git config –list –global<br>git config –global –add user.name zhuxiaobotongxue<br>git init<br>git clone<br>git add .<br>git commit –m “this is a commit”<br>git push origin master<br>git pull origin self_branch<br>git fetch origin master  //拉取远程分支<br>git merge self_branch  //合并本地分支self_branch至当前分支<br>git checkout .  //撤销所有工作空间修改<br>git reset HEAD a.html  //撤销暂存区修改<br>git revert <commit>        //撤销指定的提交<br>git checkout self_branch  //切换分支<br>git checkout –d self_branch  //删除本地分支<br>git log –p fileName          //查看指定文件提交历史<br>git log –oneline –decorate –graph –all<br>git diff –cached<br>git mv oldName newName   //文件改名<br>git rm fileName              //删除文件<br>git branch –a           //查看所有分支</commit></p><h2 id="2-非频繁实用操作"><a href="#2-非频繁实用操作" class="headerlink" title="2.非频繁实用操作"></a>2.非频繁实用操作</h2><p>git clone -b self_branch <a href="http://mall-service.git" target="_blank" rel="noopener">http://mall-service.git</a>  //克隆指定分支<br>git reset –hard resetVersionHash    //将工作空间强制恢复至指定提交<br>git push -f origin currentBranch    //将本地分支强制推送至远程<br>git stash list<br>git stash pop stash@{0}<br>git remote add origin <a href="https://github.com/Test.git" target="_blank" rel="noopener">https://github.com/Test.git</a>     //将本地项目与远程建立联系<br>git push -u origin master    //首次推送项目至远程，指定origin为默认<br>git push –delete origin self_branch //删除远程分支<br>git update-index –assume-unchanged FILENAME //已入库文件不再监听<br>git update-index –no-assume-unchanged FILENAME //恢复已入库文件监听<br>git gui  //调出图形界面<br>ssh-keygen -t rsa -C ”<a href="mailto:zhuxiaobotongxue@gmail.com" target="_blank" rel="noopener">zhuxiaobotongxue@gmail.com</a>” //生成秘钥</p><h2 id="3-小专题探究"><a href="#3-小专题探究" class="headerlink" title="3.小专题探究"></a>3.小专题探究</h2><p><strong>拉取分支</strong><br>git pull origin self_branch:self_branch  //拉取远程self_branch分支至本地self_branch分支<br>等同于<br>git fetch origin online<br>git checkout online<br>git merge origin/self_branch     //将远程self_branch分支合并至当前分支<br><strong>创建本地分支并提交至远程</strong><br>git checkout –b self_branch      //从当前分支创建本地分支并切换<br>git push origin selft_branch        //将新分支提交至远程<br><strong>忽略文件</strong><br>.gitignore  //创建未入库文件忽略配置<br><em>.[oa]  表示忽略以o或者a结尾的文件</em>~ 表示忽略以~结尾的文件<br>*.pyc 表示忽略以.pyc结尾的文件<br>！test.pyc 表示虽然上面一条忽略了以.pyc结尾的文件，但是现在要求不能忽略test.pyc<br>!test.py 同上，不忽略以！开头的！test.py文件<br>foo/ 意思是忽略foo文件夹<br>**/res 表示忽略顶层和任何层次的res文件夹<br>a 表示忽略a文件</p>]]></content>
     
@@ -67,7 +111,7 @@
     <link href="http://yoursite.com/2018/06/14/git5/"/>
     <id>http://yoursite.com/2018/06/14/git5/</id>
     <published>2018-06-14T15:52:59.000Z</published>
-    <updated>2018-06-14T16:01:47.823Z</updated>
+    <updated>2018-10-16T10:19:36.542Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-冲突产生的原因"><a href="#1-冲突产生的原因" class="headerlink" title="1.冲突产生的原因"></a>1.冲突产生的原因</h2><p>针对某个合并操作,<strong>HEAD仓库中被修改过的部分</strong>与<strong>工作目录中将被合并的修改部分</strong>为同一代码片段,此时git不知如何取舍,便会产生冲突.</p><h2 id="2-演示冲突的产生"><a href="#2-演示冲突的产生" class="headerlink" title="2.演示冲突的产生"></a>2.演示冲突的产生</h2><p>从某个A状态出发，我们修改index.html和test.html，并将其保存至暂存区，此时本地代码会恢复至A点。如下图所示。<br><img src="/2018/06/14/git5/image001.png" title="this is first image"><br>我们再次修改index.html的同一代码片段，并将其提交至HEAD仓库。如下图所示。<br><img src="/2018/06/14/git5/image002.png" title="this is first image"><br>此时若要取出暂存区内容，就会产生冲突，具体表现如下图所示。<br>【注意下图行为: index.html出现了冲突，将HEAD仓库代码和暂存区代码都合并到了工作目录，但text.txt并没有冲突，而是<strong>直接从暂存区取出至缓存区</strong>】<br><img src="/2018/06/14/git5/image003.png" title="this is first image"></p><h2 id="3-冲突解决的原理"><a href="#3-冲突解决的原理" class="headerlink" title="3.冲突解决的原理"></a>3.冲突解决的原理</h2><p>人为处理冲突，根据具体业务逻辑，判断代码的取舍，然后提交修改后的代码。</p><h2 id="4-演示冲突的解决"><a href="#4-演示冲突的解决" class="headerlink" title="4.演示冲突的解决"></a>4.演示冲突的解决</h2><p>冲突文件中冲突区域如下图所示。<br><img src="/2018/06/14/git5/image004.png" title="this is first image"><br>我们调整冲突后，如下图所示。<br>【注意：解决冲突只要删除冲突标识即可，具体内容根据具体业务取舍，下面我们假如只保留已经提交至HEAD仓库的内容】<br><img src="/2018/06/14/git5/image005.png" title="this is first image"><br>然后将处理后的文件加入缓存区，此时你会发现index.html会被自动添加至HEAD仓库，而text.txt还在缓存区，需要我们手动提交。如下图所示。<br><img src="/2018/06/14/git5/image006.png" title="this is first image"></p>]]></content>
     
@@ -90,7 +134,7 @@
     <link href="http://yoursite.com/2018/06/14/git4/"/>
     <id>http://yoursite.com/2018/06/14/git4/</id>
     <published>2018-06-14T14:21:52.000Z</published>
-    <updated>2018-06-14T15:50:31.720Z</updated>
+    <updated>2018-10-16T10:19:36.541Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-创建本地分支并推送至github"><a href="#1-创建本地分支并推送至github" class="headerlink" title="1.创建本地分支并推送至github"></a>1.创建本地分支并推送至github</h2><p>从master分支上创建分支test_branch，并切换至该分支，如图（1）所示。<br><img src="/2018/06/14/git4/image001.png" title="this is first image"></p><p><center><strong>图（1）</strong></center><br>推送该分支至github，并查看所有分支，如图（2）所示。<br><img src="/2018/06/14/git4/image002.png" title="this is first image"></p><p><center><strong>图（2）</strong></center></p><h2 id="2-合并分支"><a href="#2-合并分支" class="headerlink" title="2.合并分支"></a>2.合并分支</h2><p>首先切换至master分支，将test_branch分支上所做的修改合并至master分支。<br>推送合并后的提交至远程，如下图所示。<br>【注意：严格操作，推送之前必须先git pull，若出现冲突，要先处理冲突】<br>【小技巧：分支切换之前若本地工作目录有修改，不希望在切换后可见，可利用暂存区暂存】<br><img src="/2018/06/14/git4/image003.png" title="this is first image"></p>]]></content>
     
@@ -113,7 +157,7 @@
     <link href="http://yoursite.com/2018/06/14/git3/"/>
     <id>http://yoursite.com/2018/06/14/git3/</id>
     <published>2018-06-14T14:05:42.000Z</published>
-    <updated>2018-06-14T15:30:16.928Z</updated>
+    <updated>2018-10-16T10:19:36.539Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-工作流的状态"><a href="#1-工作流的状态" class="headerlink" title="1.工作流的状态"></a>1.工作流的状态</h2><p>要使用git进行版本控制，必须深刻理解并认识git工作流中的几个状态，如图（1）所示。<br><img src="/2018/06/14/git3/image001.png" title="this is first image"></p><p><center><strong>图（1）</strong></center><br>本地环境可以细分为3中状态：【功能尚未完毕之前，不用轻易提交至远程】<br><strong>工作区</strong>，修改文档尚未添加至版本控制<br><strong>暂存区</strong>，修改文档已添加至版本控制，但尚未提交至版本库<br><strong>版本库</strong>，修改文档提交至版本库，文档状态变化<br>远程环境只有一种状态：<br><strong>远程分支</strong>，修改文档被提交至远程代码仓库<br>【名词辨识】<br>master/branch : 分支，master为项目默认分支，也叫主分支<br>head : 本地当前版本库的指针，指向最新的提交<br>origin : 默认的远程版本库名称</p><h2 id="2-工作区撤销修改"><a href="#2-工作区撤销修改" class="headerlink" title="2.工作区撤销修改"></a>2.工作区撤销修改</h2><p>该状态尚未添加至版本控制，即尚未执行git add，此时撤销不可恢复。<br>撤销执行命令git checkout .即可。</p><h2 id="3-暂存区撤销修改"><a href="#3-暂存区撤销修改" class="headerlink" title="3.暂存区撤销修改"></a>3.暂存区撤销修改</h2><p>该状态已添加至版本控制，即已执行git add，修改内容处于暂存区<br>撤销执行命令git reset HEAD .即可，原理是用版本库内容替换缓存区内容，同时工作目录修改保留</p><h2 id="4-版本库撤销修改"><a href="#4-版本库撤销修改" class="headerlink" title="4.版本库撤销修改"></a>4.版本库撤销修改</h2><p>该状态已添加至版本库，即已执行git commit,修改内容处于版本库。<br>撤销命令如下：<br>git reset –hard HEAD~1    撤销提交并删除修改<br>git reset –soft HEAD~1    撤销提交并将修改恢复至<strong>暂存区</strong><br>git reset HEAD~1        撤销提交并就修改恢复至<strong>工作区</strong></p><h2 id="5-远程分支撤销修改"><a href="#5-远程分支撤销修改" class="headerlink" title="5.远程分支撤销修改"></a>5.远程分支撤销修改</h2><p>思路：先回退本地版本库至指定版本库【同4】，再强制推送指定版本库内容至远程分支，如下图所示。<br><img src="/2018/06/14/git3/image002.png" title="this is first image"><br>也可以用–soft保持修改内容至暂存区，如下图所示。<br><img src="/2018/06/14/git3/image003.png" title="this is first image"></p>]]></content>
     
@@ -136,7 +180,7 @@
     <link href="http://yoursite.com/2018/06/14/git2/"/>
     <id>http://yoursite.com/2018/06/14/git2/</id>
     <published>2018-06-14T13:48:30.000Z</published>
-    <updated>2018-06-14T14:02:39.645Z</updated>
+    <updated>2018-10-16T10:19:36.537Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-初始化本地仓库"><a href="#1-初始化本地仓库" class="headerlink" title="1.初始化本地仓库"></a>1.初始化本地仓库</h2><p>本地新建一个项目文件夹test,并在该文件夹中点击右键打开git bash,用git init命令来初始化git仓库，如图（1）所示。初始化后默认是master分支。<br><img src="/2018/06/14/git2/image001.png" title="this is first image"></p><p><center><strong>图（1）</strong></center><br>初始化仓库配置如图（2）所示【没有配置全局作用域的需要此步骤】<br><img src="/2018/06/14/git2/image002.png" title="this is first image"></p><p><center><strong>图（2）</strong></center><br>本地仓库现在什么也没有，我们可以新建一个文件README.txt，便于观察。添加修改并提交至HEAD，如何（3）所示。<br><img src="/2018/06/14/git2/image003.png" title="this is first image"></p><p><center><strong>图（3）</strong></center></p><h2 id="2-推送本地仓库至github"><a href="#2-推送本地仓库至github" class="headerlink" title="2.推送本地仓库至github"></a>2.推送本地仓库至github</h2><p>先登录github官网，并创建一个空的同名项目test【注意不要勾选README.txt】。<br>复制项目的git地址（如：<a href="mailto:git@github.com" target="_blank" rel="noopener">git@github.com</a>:zhuxiaobotongxue/test.git）。<br>在git bash中执行命令如图（4）所示【注意首次提交要有-u参数】。<br><img src="/2018/06/14/git2/image004.png" title="this is first image"></p><p><center><strong>图（4）</strong></center><br>此时刷新github仓库，就可以看到内容提交成功了。</p>]]></content>
     
@@ -159,7 +203,7 @@
     <link href="http://yoursite.com/2018/06/13/git1/"/>
     <id>http://yoursite.com/2018/06/13/git1/</id>
     <published>2018-06-13T14:35:54.000Z</published>
-    <updated>2018-06-14T14:02:47.300Z</updated>
+    <updated>2018-11-15T11:46:00.062Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-名词解释"><a href="#1-名词解释" class="headerlink" title="1.名词解释"></a>1.名词解释</h2><p><strong>Git</strong>: 一个免费的开源分布式版本控制系统<br><strong>github</strong>: 一个面向开源及私有软件项目的托管平台</p><h2 id="2-Git下载安装与配置"><a href="#2-Git下载安装与配置" class="headerlink" title="2.Git下载安装与配置"></a>2.Git下载安装与配置</h2><p>从<a href="https://git-scm.com/" target="_blank" rel="noopener">git官网</a>上下载并傻瓜式安装，安装完成后在桌面单击右键，看到“Git Bash Here”和“Git Gui Here”说明安装成功。单击打开“Git Bash Here”输入命令检查版本信息，如图（1）所示。<br><img src="/2018/06/13/git1/image001.png" title="this is first image"></p><center><strong>图（1）</strong></center><br>git基本配置如图（2）所示，前两个命令添加，第三个命令查看。更多关于配置的操作可以输入<strong>git config –help</strong>查看。<br><img src="/2018/06/13/git1/image002.png" title="this is second image"><br><center><strong>图（2）</strong></center><br>配置ssh-keygen如图（3）所示，输入命令后，依次输入三个回车。然后在系统目录C:\Users\Administrator.ssh文件夹中会看到两个文件id_rsa和id_rsa.pub，后者中的内容将用于配置在github中，服务于代码传输。<br><img src="/2018/06/13/git1/image003.png" title="this is second image"><br><center><strong>图（3）</strong></center><h2 id="3-github配置并新建托管项目"><a href="#3-github配置并新建托管项目" class="headerlink" title="3.github配置并新建托管项目"></a>3.github配置并新建托管项目</h2><p>访问<a href="https://github.com/" target="_blank" rel="noopener">github官网</a>，没有账号的自行注册并登陆【建议注册邮箱同git配置邮箱】。在右上角个人头像处单击，并点击Settings选项，找到SSH and GPG keys,并点击右上角“New SSH key”的按钮来添加配置。<br>Title名字可以自己命名，key的内容要复制上面生成的id_rsa.pub中的内容，确认后输入注册账号时的密码，配置好后如图（4）所示。<br><img src="/2018/06/13/git1/image004.png" title="this is second image"></p><center><strong>图（4）</strong></center><br>回到github首页，找到“New repository”按钮，新建一个项目仓库，如图（5）所示。<br><img src="/2018/06/13/git1/image005.png" title="this is second image"><br><center><strong>图（5）</strong></center><br>创建完成后找到“Clone and download”按钮，点击并复制项目仓库路径，如图（6）所示。<br><img src="/2018/06/13/git1/image006.png" title="this is second image"><br><center><strong>图（6）</strong></center><br>在系统中找一个合适的文件夹放置项目代码，在该文件夹中打开git bash，输入命令来下载github上新创建的项目代码，首次输入命令后可能会提示确认操作，此时输入yes即可，下载完成后，如图（7）所示。此时项目已被下载到了文件夹中。<br><img src="/2018/06/13/git1/image007.png" title="this is second image"><br><center><strong>图（7）</strong></center>]]></content>
     
@@ -174,27 +218,6 @@
     
     
       <category term="Git" scheme="http://yoursite.com/tags/Git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2018/05/31/hello-world/"/>
-    <id>http://yoursite.com/2018/05/31/hello-world/</id>
-    <published>2018-05-31T13:50:26.871Z</published>
-    <updated>2018-05-31T13:50:26.872Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
     
   </entry>
   
