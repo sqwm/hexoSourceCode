@@ -44,9 +44,9 @@
     <link href="http://yoursite.com/2018/11/15/hexo/"/>
     <id>http://yoursite.com/2018/11/15/hexo/</id>
     <published>2018-11-15T11:44:41.000Z</published>
-    <updated>2018-11-15T12:13:55.670Z</updated>
+    <updated>2018-11-15T12:26:11.184Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="1-文档目的"><a href="#1-文档目的" class="headerlink" title="1.文档目的"></a>1.文档目的</h2><p>该文档用于自己及时查看，并快速上手继续写博客<br>参考网址：<a href="https://hexo.io/zh-cn/docs/commands" target="_blank" rel="noopener">hexo官方文挡</a></p><h2 id="2-快速编写博客"><a href="#2-快速编写博客" class="headerlink" title="2.快速编写博客"></a>2.快速编写博客</h2><p>1.查看自己远程博客：<a href="https://zhuxiaobotongxue.github.io/" target="_blank" rel="noopener">https://zhuxiaobotongxue.github.io/</a><br>2.本地化启动服务：<strong>hexo s</strong><br>3.如何生成一篇博客(如：git1)：<strong>hexo new post git1</strong><br>4.打开source文件夹并编辑博客，<a href="https://www.jianshu.com/p/191d1e21f7ed" target="_blank" rel="noopener">markdown语法</a><br>5.编译博客： <strong>hexo g</strong><br>6.部署至远程：<strong>hexo d</strong><br>7.备份原代码：<strong>git push</strong></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-文档目的"><a href="#1-文档目的" class="headerlink" title="1.文档目的"></a>1.文档目的</h2><p>该文档用于自己及时查看，并快速上手继续写博客<br>参考网址：<a href="https://hexo.io/zh-cn/docs/commands" target="_blank" rel="noopener">hexo官方文挡</a></p><h2 id="2-快速编写博客"><a href="#2-快速编写博客" class="headerlink" title="2.快速编写博客"></a>2.快速编写博客</h2><p>1.查看自己远程博客：<a href="https://zhuxiaobotongxue.github.io/" target="_blank" rel="noopener">https://zhuxiaobotongxue.github.io/</a><br>2.本地化启动服务：<strong>hexo s</strong><br>3.如何生成一篇博客(如：git1)：<strong>hexo new post git1</strong><br>4.打开source文件夹并编辑博客，<a href="https://www.jianshu.com/p/191d1e21f7ed" target="_blank" rel="noopener">markdown语法</a><br>5.编译博客： <strong>hexo g</strong><br>6.部署至远程：<strong>hexo d</strong><br>7.备份原代码：<strong>git add ./git commit -m ‘’/git push</strong></p>]]></content>
     
     <summary type="html">
     
