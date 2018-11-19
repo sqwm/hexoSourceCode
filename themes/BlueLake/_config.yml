@@ -13,12 +13,12 @@ menu:
   - page: archive
     directory: archives/
     icon: fa-archive
-#  - page: about
-#    directory: about/
-#    icon: fa-user
-#  - page: rss
-#    directory: atom.xml
-#    icon: fa-rss
+  - page: about
+    directory: about/
+    icon: fa-user
+  - page: rss
+    directory: atom.xml
+    icon: fa-rss
 
 # Sidebar
 widgets:
@@ -100,7 +100,7 @@ busuanzi: true ## If you want to use Busuanzi page views please set the value to
 
 # About page
 about:
-  photo_url: http://obzf7z93c.bkt.clouddn.com/themeauthor.jpg ## Your photo e.g. http://obzf7z93c.bkt.clouddn.com/themeauthor.jpg
+  photo_url: http://temp.im/200x200 ## Your photo e.g. http://obzf7z93c.bkt.clouddn.com/themeauthor.jpg
   items:
   - label: email
     url: mailto:zhuxiaobotongxue@gmail.com
