@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-12-18T22:39:18.296Z</updated>
+  <updated>2018-12-18T23:34:27.260Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>coding-quality</title>
+    <link href="http://yoursite.com/2018/12/19/coding-quality/"/>
+    <id>http://yoursite.com/2018/12/19/coding-quality/</id>
+    <published>2018-12-18T22:43:00.000Z</published>
+    <updated>2018-12-18T23:34:27.260Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-文档目的"><a href="#1-文档目的" class="headerlink" title="1.文档目的"></a>1.文档目的</h2><p>一直想写一篇关于编码习惯和编码质量的博文，却一直没有动手，今天终于开启了这个课题的探究，可能这种情怀就像是一个有洁癖的人对于卫生环境的追求一样，作为一个编码人员也会对自己编写的代码有一种追求质量的情怀。可能这种追求并不是一两天或者几句话能说明白的事情，所有我会持续探究并完善这篇博文，希望可以有所帮助<br>参考网址：<a href="https://www.jianshu.com/p/4cbcd202a591" target="_blank" rel="noopener">雅虎军规35条</a>、<a href="https://github.com/yuche/javascript" target="_blank" rel="noopener">JavaScript 编码规范</a>、<a href="http://eslint.cn/docs/rules/" target="_blank" rel="noopener">eslint规则</a></p><h2 id="2-心得"><a href="#2-心得" class="headerlink" title="2.心得"></a>2.心得</h2><p>编程讲究章法，要心中有想法，才能动手编码，正所谓”三思而后行”，<br>1、前端的发展讲究”工程化”，”模块化”和”组件化”，那么我们在编码之前，清晰地了解需求之后，就要从这三个维度去考虑实现方案，<br>工程化：用做工程的思维看待和开发自己的项目，而不再是直接撸起袖子一个页面一个页面开写，比如规划各种规范、技术选型、项目构建优化等等<br>模块化：强调功能的分离同时可以复用，比如ES6 Module,less mixin等，要写一个实现A功能的JS代码，这个功能在项目其他位置也需要用到，那么我们就可以把这个功能看成一个模块采用一定的方式进行模块化编写<br>组件化：强调视图的复用同时需用分离，比如vue公共组件的实现，页面只不过是组件的容器，负责组合组件形成功能完整的界面<br>2、细节决定了编码的质量，而强有力且公认的编码习惯则决定了代码的可读性，常见的编码习惯涉及到文件命名，变量命名，标点符号，注释，代码算法结构等</p><h2 id="3-整理实用条款"><a href="#3-整理实用条款" class="headerlink" title="3.整理实用条款"></a>3.整理实用条款</h2><p>1、工程化，模块化，组件化的思想<br>2、项目命名和文件命名建议用…</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;1-文档目的&quot;&gt;&lt;a href=&quot;#1-文档目的&quot; class=&quot;headerlink&quot; title=&quot;1.文档目的&quot;&gt;&lt;/a&gt;1.文档目的&lt;/h2&gt;&lt;p&gt;一直想写一篇关于编码习惯和编码质量的博文，却一直没有动手，今天终于开启了这个课题的探究，可能这种情怀就像是一
+      
+    
+    </summary>
+    
+    
+      <category term="tools" scheme="http://yoursite.com/tags/tools/"/>
+    
+  </entry>
   
   <entry>
     <title>sleep-quality</title>
