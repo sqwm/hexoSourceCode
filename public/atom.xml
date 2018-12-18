@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-12-14T12:31:37.168Z</updated>
+  <updated>2018-12-18T22:39:18.296Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sleep-quality</title>
+    <link href="http://yoursite.com/2018/12/19/sleep-quality/"/>
+    <id>http://yoursite.com/2018/12/19/sleep-quality/</id>
+    <published>2018-12-18T22:24:35.000Z</published>
+    <updated>2018-12-18T22:39:18.296Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-文档目的"><a href="#1-文档目的" class="headerlink" title="1.文档目的"></a>1.文档目的</h2><p>该文档用于提醒自己掌握科学的睡眠方法，提升睡眠质量<br>参考网址：<a href="https://m.leha.com/health/59359" target="_blank" rel="noopener">乐哈健康:提升睡眠质量</a></p><h2 id="2-提升睡眠质量九大原则"><a href="#2-提升睡眠质量九大原则" class="headerlink" title="2.提升睡眠质量九大原则"></a>2.提升睡眠质量九大原则</h2><p>1、改掉睡前吃东西的习惯<br>2、调整睡眠环境<br>3、改变睡姿<br>4、睡前梳梳头<br>5、睡前用热水泡泡脚<br>6、蜂蜜加牛奶改善睡眠质量<br>7、临睡前要注意放松心情<br>8、睡前舒缓运动消除疲劳<br>9、睡觉时枕头别垫太高</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;1-文档目的&quot;&gt;&lt;a href=&quot;#1-文档目的&quot; class=&quot;headerlink&quot; title=&quot;1.文档目的&quot;&gt;&lt;/a&gt;1.文档目的&lt;/h2&gt;&lt;p&gt;该文档用于提醒自己掌握科学的睡眠方法，提升睡眠质量&lt;br&gt;参考网址：&lt;a href=&quot;https://m.l
+      
+    
+    </summary>
+    
+    
+      <category term="life" scheme="http://yoursite.com/tags/life/"/>
+    
+  </entry>
   
   <entry>
     <title>string</title>

@@ -4,46 +4,29 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/12/19/sleep-quality/</loc>
+    <lastmod>2018-12-18T22:39:18.296Z</lastmod>
+    <data>
+        <display>
+        <title>sleep-quality</title>
+        <pubTime>2018-12-18T22:24:35.000Z</pubTime>
+        
+        <tag>life</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/11/15/keymap/</loc>
     <lastmod>2018-12-14T12:38:38.442Z</lastmod>
     <data>
         <display>
         <title>keymap</title>
         <pubTime>2018-11-15T12:12:21.000Z</pubTime>
-        
-        <tag>tools</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/11/15/vueserve/</loc>
-    <lastmod>2018-12-14T12:31:37.168Z</lastmod>
-    <data>
-        <display>
-        <title>vue组件快速原型开发</title>
-        <pubTime>2018-11-15T12:56:20.000Z</pubTime>
-        
-        <tag>tools</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/11/15/npm/</loc>
-    <lastmod>2018-12-14T12:31:37.168Z</lastmod>
-    <data>
-        <display>
-        <title>npm淘宝镜像</title>
-        <pubTime>2018-11-15T13:18:51.000Z</pubTime>
         
         <tag>tools</tag>
          
@@ -72,6 +55,40 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/11/19/string/</loc>
+    <lastmod>2018-12-14T12:31:37.168Z</lastmod>
+    <data>
+        <display>
+        <title>string</title>
+        <pubTime>2018-11-19T12:04:20.000Z</pubTime>
+        
+        <tag>JS</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/11/15/npm/</loc>
+    <lastmod>2018-12-14T12:31:37.168Z</lastmod>
+    <data>
+        <display>
+        <title>npm淘宝镜像</title>
+        <pubTime>2018-11-15T13:18:51.000Z</pubTime>
+        
+        <tag>tools</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/11/15/hexo/</loc>
     <lastmod>2018-12-14T12:31:37.168Z</lastmod>
     <data>
@@ -89,14 +106,14 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/11/19/string/</loc>
+    <loc>http://yoursite.com/2018/11/15/vueserve/</loc>
     <lastmod>2018-12-14T12:31:37.168Z</lastmod>
     <data>
         <display>
-        <title>string</title>
-        <pubTime>2018-11-19T12:04:20.000Z</pubTime>
+        <title>vue组件快速原型开发</title>
+        <pubTime>2018-11-15T12:56:20.000Z</pubTime>
         
-        <tag>JS</tag>
+        <tag>tools</tag>
          
          
            
