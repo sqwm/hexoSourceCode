@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f543cca2-745a-48f2-8052-ea49b484d377" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2018-12-19-coding-quality.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2018-12-19-coding-quality.md" afterDir="false" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,24 +43,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
-          <entry key="md" value="6" />
+          <entry key="md" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="6" />
+          <entry key="Markdown" value="7" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="9" />
-          <entry key="md" value="761" />
+          <entry key="md" value="1185" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="761" />
+          <entry key="Markdown" value="1185" />
           <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
@@ -82,8 +82,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/2018-12-19-coding-quality.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="91">
-                <caret line="7" column="111" lean-forward="true" selection-start-line="7" selection-start-column="111" selection-end-line="7" selection-end-column="111" />
+              <first_editor relative-caret-position="364">
+                <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
               </first_editor>
               <second_editor />
             </state>
@@ -239,12 +239,12 @@
       <option name="presentableId" value="Default" />
       <updated>1527775851543</updated>
       <workItem from="1539685231578" duration="2151000" />
-      <workItem from="1545171479215" duration="4082000" />
+      <workItem from="1545171479215" duration="10080000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6860000" />
+    <option name="totallyTimeSpent" value="12858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -418,8 +418,8 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/2018-12-19-coding-quality.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="91">
-            <caret line="7" column="111" lean-forward="true" selection-start-line="7" selection-start-column="111" selection-end-line="7" selection-end-column="111" />
+          <first_editor relative-caret-position="364">
+            <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
           </first_editor>
           <second_editor />
         </state>

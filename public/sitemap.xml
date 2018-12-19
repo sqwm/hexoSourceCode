@@ -4,7 +4,7 @@
   <url>
     <loc>http://yoursite.com/2018/12/19/coding-quality/</loc>
     
-    <lastmod>2018-12-18T23:34:27.260Z</lastmod>
+    <lastmod>2018-12-19T23:42:33.310Z</lastmod>
     
   </url>
   
@@ -23,21 +23,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/11/19/string/</loc>
-    
-    <lastmod>2018-12-14T12:31:37.168Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/11/15/vueserve/</loc>
-    
-    <lastmod>2018-12-14T12:31:37.168Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2018/11/15/npm/</loc>
+    
+    <lastmod>2018-12-14T12:31:37.168Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/11/15/hexo/</loc>
     
     <lastmod>2018-12-14T12:31:37.168Z</lastmod>
     
@@ -51,7 +44,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/11/15/hexo/</loc>
+    <loc>http://yoursite.com/2018/11/15/vueserve/</loc>
+    
+    <lastmod>2018-12-14T12:31:37.168Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/11/19/string/</loc>
     
     <lastmod>2018-12-14T12:31:37.168Z</lastmod>
     
