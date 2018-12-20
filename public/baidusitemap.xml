@@ -4,6 +4,57 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/12/21/axios/</loc>
+    <lastmod>2018-12-20T23:32:12.765Z</lastmod>
+    <data>
+        <display>
+        <title>axios</title>
+        <pubTime>2018-12-20T23:11:54.000Z</pubTime>
+        
+        <tag>tools</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/11/15/npm/</loc>
+    <lastmod>2018-12-20T22:39:23.446Z</lastmod>
+    <data>
+        <display>
+        <title>npm淘宝镜像</title>
+        <pubTime>2018-11-15T13:18:51.000Z</pubTime>
+        
+        <tag>tools</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/11/15/vueserve/</loc>
+    <lastmod>2018-12-20T22:38:29.173Z</lastmod>
+    <data>
+        <display>
+        <title>vue组件快速原型开发</title>
+        <pubTime>2018-11-15T12:56:20.000Z</pubTime>
+        
+        <tag>tools</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/12/19/coding-quality/</loc>
     <lastmod>2018-12-19T23:42:33.310Z</lastmod>
     <data>
@@ -55,23 +106,6 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/11/15/npm/</loc>
-    <lastmod>2018-12-14T12:31:37.168Z</lastmod>
-    <data>
-        <display>
-        <title>npm淘宝镜像</title>
-        <pubTime>2018-11-15T13:18:51.000Z</pubTime>
-        
-        <tag>tools</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://yoursite.com/2018/11/15/hexo/</loc>
     <lastmod>2018-12-14T12:31:37.168Z</lastmod>
     <data>
@@ -89,12 +123,12 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/11/19/array/</loc>
+    <loc>http://yoursite.com/2018/11/19/string/</loc>
     <lastmod>2018-12-14T12:31:37.168Z</lastmod>
     <data>
         <display>
-        <title>array</title>
-        <pubTime>2018-11-19T11:55:59.000Z</pubTime>
+        <title>string</title>
+        <pubTime>2018-11-19T12:04:20.000Z</pubTime>
         
         <tag>JS</tag>
          
@@ -106,29 +140,12 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/11/15/vueserve/</loc>
+    <loc>http://yoursite.com/2018/11/19/array/</loc>
     <lastmod>2018-12-14T12:31:37.168Z</lastmod>
     <data>
         <display>
-        <title>vue组件快速原型开发</title>
-        <pubTime>2018-11-15T12:56:20.000Z</pubTime>
-        
-        <tag>tools</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/11/19/string/</loc>
-    <lastmod>2018-12-14T12:31:37.168Z</lastmod>
-    <data>
-        <display>
-        <title>string</title>
-        <pubTime>2018-11-19T12:04:20.000Z</pubTime>
+        <title>array</title>
+        <pubTime>2018-11-19T11:55:59.000Z</pubTime>
         
         <tag>JS</tag>
          

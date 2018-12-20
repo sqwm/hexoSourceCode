@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-12-19T23:42:33.310Z</updated>
+  <updated>2018-12-20T23:32:12.765Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>axios</title>
+    <link href="http://yoursite.com/2018/12/21/axios/"/>
+    <id>http://yoursite.com/2018/12/21/axios/</id>
+    <published>2018-12-20T23:11:54.000Z</published>
+    <updated>2018-12-20T23:32:12.765Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-文档目的"><a href="#1-文档目的" class="headerlink" title="1.文档目的"></a>1.文档目的</h2><p>通过对axios几个点的深入剖析和实践，进一步理解前后端配合完成接口对接工作<br>参考网址：<a href="https://www.kancloud.cn/yunye/axios/234845" target="_blank" rel="noopener">axios</a></p><h2 id="2-实践要点分析"><a href="#2-实践要点分析" class="headerlink" title="2.实践要点分析"></a>2.实践要点分析</h2><p>1.get请求直接拼接动态数据<br>get请求是最常见的请求方式，但是根据后端接口的设计形式，前端请求的方式也是有所区别的<br>例如在Swagger UI上看到的形式为：<br>【GET】 /resourceApply/get/{id}<br>(Parameters)    id[required]  string<br>那么前端的请求方法声明就应该如下（即：将参数直接拼接）：<br>getDepartById = id =&gt; this.get(<code>/resourceApply/get/${id}</code>)<br>对该方法的调用如下（即：通过形参将动态数据直接传到动态拼接的请求链接上）：<br>DepartApi.getDepartById(rowId)<br>2.get等请求params参数形式<br>3.post等请求data参数形式<br>4.跨域等问题的处理</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;1-文档目的&quot;&gt;&lt;a href=&quot;#1-文档目的&quot; class=&quot;headerlink&quot; title=&quot;1.文档目的&quot;&gt;&lt;/a&gt;1.文档目的&lt;/h2&gt;&lt;p&gt;通过对axios几个点的深入剖析和实践，进一步理解前后端配合完成接口对接工作&lt;br&gt;参考网址：&lt;a href
+      
+    
+    </summary>
+    
+    
+      <category term="tools" scheme="http://yoursite.com/tags/tools/"/>
+    
+  </entry>
   
   <entry>
     <title>coding-quality</title>
@@ -113,9 +136,9 @@
     <link href="http://yoursite.com/2018/11/15/npm/"/>
     <id>http://yoursite.com/2018/11/15/npm/</id>
     <published>2018-11-15T13:18:51.000Z</published>
-    <updated>2018-12-14T12:31:37.168Z</updated>
+    <updated>2018-12-20T22:39:23.446Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="1-文档目的"><a href="#1-文档目的" class="headerlink" title="1.文档目的"></a>1.文档目的</h2><p>该文档用于解释说明npm淘宝镜像的使用<br>参考网址：<a href="http://npm.taobao.org/" target="_blank" rel="noopener">淘宝npm镜像</a>、<a href="https://reactnative.cn/docs/getting-started/" target="_blank" rel="noopener">react native环境搭建</a>、<a href="https://blog.csdn.net/quuqu/article/details/64121812" target="_blank" rel="noopener">淘宝镜像说明</a></p><h2 id="2-内容梳理"><a href="#2-内容梳理" class="headerlink" title="2.内容梳理"></a>2.内容梳理</h2><p>淘宝镜像使用目的：加快访问速度<br>使用方式及其对比：</p><ul><li>npm切换镜像源（加快访问速度）：<br><strong>npm config set registry <a href="https://registry.npm.taobao.org" target="_blank" rel="noopener">https://registry.npm.taobao.org</a> –global</strong><br><strong>npm config set disturl <a href="https://npm.taobao.org/dist" target="_blank" rel="noopener">https://npm.taobao.org/dist</a> –global</strong><br>验证查看镜像源：<br><strong>npm config get registry</strong><br><strong>npm config get disturl</strong></li><li>yarn方式[推荐]<br>yarn安装：<br><strong>npm install -g yarn</strong><br>yarn配置镜像源：<br><strong>yarn config set registry <a href="https://registry.npm.taobao.org" target="_blank" rel="noopener">https://registry.npm.taobao.org</a> –global</strong><br><strong>yarn config set disturl <a href="https://npm.taobao.org/dist" target="_blank" rel="noopener">https://npm.taobao.org/dist</a> –global</strong><br>验证查看镜像源：<br><strong>yarn config get registry</strong><br><strong>yarn config get disturl</strong></li><li>cnpm方式[不推荐：安装的模块路径比较奇怪]<br><strong>npm install -g cnpm –registry=<a href="https://registry.npm.taobao.org" target="_blank" rel="noopener">https://registry.npm.taobao.org</a></strong></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-文档目的"><a href="#1-文档目的" class="headerlink" title="1.文档目的"></a>1.文档目的</h2><p>该文档用于解释说明npm淘宝镜像的使用<br>参考网址：<a href="http://npm.taobao.org/" target="_blank" rel="noopener">淘宝npm镜像</a>、<a href="https://reactnative.cn/docs/getting-started/" target="_blank" rel="noopener">react native环境搭建</a>、<a href="https://blog.csdn.net/quuqu/article/details/64121812" target="_blank" rel="noopener">淘宝镜像说明</a></p><h2 id="2-内容梳理"><a href="#2-内容梳理" class="headerlink" title="2.内容梳理"></a>2.内容梳理</h2><p>淘宝镜像使用目的：加快访问速度<br>使用方式及其对比：</p><ul><li>npm切换镜像源（加快访问速度）：<br><strong>npm config set registry <a href="https://registry.npm.taobao.org" target="_blank" rel="noopener">https://registry.npm.taobao.org</a> –global</strong><br><strong>npm config set disturl <a href="https://npm.taobao.org/dist" target="_blank" rel="noopener">https://npm.taobao.org/dist</a> –global</strong><br>验证查看镜像源：<br><strong>npm config list</strong><br><strong>npm config get registry</strong><br><strong>npm config get disturl</strong></li><li>yarn方式[推荐]<br>yarn安装：<br><strong>npm install -g yarn</strong><br>yarn配置镜像源：<br><strong>yarn config set registry <a href="https://registry.npm.taobao.org" target="_blank" rel="noopener">https://registry.npm.taobao.org</a> –global</strong><br><strong>yarn config set disturl <a href="https://npm.taobao.org/dist" target="_blank" rel="noopener">https://npm.taobao.org/dist</a> –global</strong><br>验证查看镜像源：<br><strong>yarn config list</strong><br><strong>yarn config get registry</strong><br><strong>yarn config get disturl</strong></li><li>cnpm方式[不推荐：安装的模块路径比较奇怪]<br><strong>npm install -g cnpm –registry=<a href="https://registry.npm.taobao.org" target="_blank" rel="noopener">https://registry.npm.taobao.org</a></strong></li></ul><h2 id="3-扩展"><a href="#3-扩展" class="headerlink" title="3.扩展"></a>3.扩展</h2><p>查看npm全局安装默认路径（打开则可以看到具体安装的模块）：<br><strong>npm config get prefix</strong><br>全局安装模块：<br><strong>npm install -g @vue/cli</strong>或<strong>yarn global add @vue/cli</strong><br>全局卸载已安装模块：<br><strong>npm uninstall vue-cli -g</strong>或<strong>yarn global remove vue-cli</strong></p>]]></content>
     
     <summary type="html">
     
@@ -136,15 +159,15 @@
     <link href="http://yoursite.com/2018/11/15/vueserve/"/>
     <id>http://yoursite.com/2018/11/15/vueserve/</id>
     <published>2018-11-15T12:56:20.000Z</published>
-    <updated>2018-12-14T12:31:37.168Z</updated>
+    <updated>2018-12-20T22:38:29.173Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="1-文档目的"><a href="#1-文档目的" class="headerlink" title="1.文档目的"></a>1.文档目的</h2><p>该文档用于快速开发vue组件，不用搭建完整的vue cli 3.0环境，就可以直接开发预览vue组件<br>参考网址：基于<a href="https://cli.vuejs.org/zh/guide/" target="_blank" rel="noopener">vue cli 3.0</a>中快速<a href="https://cli.vuejs.org/zh/guide/prototyping.html" target="_blank" rel="noopener">原型开发</a>模块</p><h2 id="2-快速原型开发"><a href="#2-快速原型开发" class="headerlink" title="2.快速原型开发"></a>2.快速原型开发</h2><p>检查是否安装了全局扩展： <strong>vue -V</strong><br>安装全局扩展： <strong>npm install -g @vue/cli-service-global</strong><br>编写App.vue组件：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;template&gt;</span><br><span class="line">  &lt;h1&gt;Hello!&lt;/h1&gt;</span><br><span class="line">&lt;/template&gt;</span><br></pre></td></tr></table></figure></p><p>运行组件： <strong>vue serve</strong><br>编译构建组件： <strong>vue build</strong></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-文档目的"><a href="#1-文档目的" class="headerlink" title="1.文档目的"></a>1.文档目的</h2><p>该文档用于快速开发vue组件，不用初始化完整的vue项目，就可以直接开发预览vue组件<br>参考网址：基于<a href="https://cli.vuejs.org/zh/guide/" target="_blank" rel="noopener">vue cli 3.0</a>中快速<a href="https://cli.vuejs.org/zh/guide/prototyping.html" target="_blank" rel="noopener">原型开发</a>模块</p><h2 id="2-快速原型开发"><a href="#2-快速原型开发" class="headerlink" title="2.快速原型开发"></a>2.快速原型开发</h2><p>检查是否安装了vue cli 3.0开发环境： <strong>vue –version</strong><br>安装vue cli 3.0环境: <strong>npm install -g @vue/cli</strong>或<strong>yarn global add @vue/cli</strong><br>安装全局扩展： <strong>npm install -g @vue/cli-service-global</strong><br>编写App.vue组件：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;template&gt;</span><br><span class="line">  &lt;h1&gt;Hello!&lt;/h1&gt;</span><br><span class="line">&lt;/template&gt;</span><br></pre></td></tr></table></figure></p><p>运行组件： <strong>vue serve</strong><br>编译构建组件： <strong>vue build</strong></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;1-文档目的&quot;&gt;&lt;a href=&quot;#1-文档目的&quot; class=&quot;headerlink&quot; title=&quot;1.文档目的&quot;&gt;&lt;/a&gt;1.文档目的&lt;/h2&gt;&lt;p&gt;该文档用于快速开发vue组件，不用搭建完整的vue cli 3.0环境，就可以直接开发预览vue组件&lt;br&gt;
+        &lt;h2 id=&quot;1-文档目的&quot;&gt;&lt;a href=&quot;#1-文档目的&quot; class=&quot;headerlink&quot; title=&quot;1.文档目的&quot;&gt;&lt;/a&gt;1.文档目的&lt;/h2&gt;&lt;p&gt;该文档用于快速开发vue组件，不用初始化完整的vue项目，就可以直接开发预览vue组件&lt;br&gt;参考网址：基于
       
     
     </summary>
