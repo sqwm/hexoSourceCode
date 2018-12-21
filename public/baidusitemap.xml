@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://yoursite.com/2018/12/21/axios/</loc>
-    <lastmod>2018-12-20T23:32:12.765Z</lastmod>
+    <lastmod>2018-12-21T23:32:16.231Z</lastmod>
     <data>
         <display>
         <title>axios</title>
@@ -106,23 +106,6 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/11/15/hexo/</loc>
-    <lastmod>2018-12-14T12:31:37.168Z</lastmod>
-    <data>
-        <display>
-        <title>hexo使用笔记</title>
-        <pubTime>2018-11-15T11:44:41.000Z</pubTime>
-        
-        <tag>tools</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://yoursite.com/2018/11/19/string/</loc>
     <lastmod>2018-12-14T12:31:37.168Z</lastmod>
     <data>
@@ -148,6 +131,23 @@
         <pubTime>2018-11-19T11:55:59.000Z</pubTime>
         
         <tag>JS</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/11/15/hexo/</loc>
+    <lastmod>2018-12-14T12:31:37.168Z</lastmod>
+    <data>
+        <display>
+        <title>hexo使用笔记</title>
+        <pubTime>2018-11-15T11:44:41.000Z</pubTime>
+        
+        <tag>tools</tag>
          
          
            
