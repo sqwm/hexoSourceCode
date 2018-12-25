@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-12-21T23:32:16.231Z</updated>
+  <updated>2018-12-25T23:12:54.394Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>react1</title>
+    <link href="http://yoursite.com/2018/12/26/react1/"/>
+    <id>http://yoursite.com/2018/12/26/react1/</id>
+    <published>2018-12-25T22:15:26.000Z</published>
+    <updated>2018-12-25T23:12:54.394Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-文档目的"><a href="#1-文档目的" class="headerlink" title="1.文档目的"></a>1.文档目的</h2><p>学习并理解React+Rudax模式<br>参考网址：<a href="https://www.imooc.com/learn/744" target="_blank" rel="noopener">慕课网:在React中使用Redux数据流</a></p><h2 id="2-概念笔记"><a href="#2-概念笔记" class="headerlink" title="2.概念笔记"></a>2.概念笔记</h2><p>1.React是纯V层框架（页面由容器组件和视图组件构成，本身是个类的定义，有props和state属性，reader和生命周期方法），<br>需要数据流支撑（用户行为和系统响应可预测的抽象，Redux是单向数据流的实现方式之一）<br>2.Redux由action(行为的抽象)和唯一的store[state(可预测,运行时产生)、Reducer(对响应抽象的纯方法，输入state和action,返回新的state)]组成，<br>实现时预先定义好action和reducer,reducer再生产store,action作用于store,store会促使reducer生成新的state</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;1-文档目的&quot;&gt;&lt;a href=&quot;#1-文档目的&quot; class=&quot;headerlink&quot; title=&quot;1.文档目的&quot;&gt;&lt;/a&gt;1.文档目的&lt;/h2&gt;&lt;p&gt;学习并理解React+Rudax模式&lt;br&gt;参考网址：&lt;a href=&quot;https://www.imooc.
+      
+    
+    </summary>
+    
+    
+      <category term="React" scheme="http://yoursite.com/tags/React/"/>
+    
+  </entry>
   
   <entry>
     <title>axios</title>
