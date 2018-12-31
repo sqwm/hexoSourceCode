@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f543cca2-745a-48f2-8052-ea49b484d377" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.deploy_git" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/05/31/hello-world/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/05/31/hello-world/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/06/13/git1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/06/13/git1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/06/14/git2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/06/14/git2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/06/14/git3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/06/14/git3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/06/14/git4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/06/14/git4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/06/14/git5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/06/14/git5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/06/25/git6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/06/25/git6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/06/29/googledev/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/06/29/googledev/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/11/15/hexo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/11/15/hexo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/11/15/keymap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/11/15/keymap/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/11/15/npm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/11/15/npm/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/11/15/vueserve/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/11/15/vueserve/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/11/19/array/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/11/19/array/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/11/19/string/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/11/19/string/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/12/19/coding-quality/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/12/19/coding-quality/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/12/19/sleep-quality/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/12/19/sleep-quality/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/12/21/axios/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/12/21/axios/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/12/26/react1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/12/26/react1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2018/05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2018/05/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2018/06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2018/06/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2018/11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2018/11/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2018/12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2018/12/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2018/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2018/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2018/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2018/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/atom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/baidusitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/baidusitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/content.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/content.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/Git/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Git/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/JS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/JS/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/React/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/React/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/life/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/life/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tools/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tools/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-12-19-coding-quality.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2018-12-19-coding-quality.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2018-12-26-react1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2018-12-26-react1.md" afterDir="false" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,24 +43,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
-          <entry key="md" value="20" />
+          <entry key="md" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="20" />
+          <entry key="Markdown" value="21" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="9" />
-          <entry key="md" value="3444" />
+          <entry key="md" value="3458" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="3444" />
+          <entry key="Markdown" value="3458" />
           <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
@@ -123,11 +83,11 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_posts/2018-12-19-coding-quality.md">
+        <entry file="file://$PROJECT_DIR$/source/_posts/2018-12-26-react1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="273">
-                <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+              <first_editor relative-caret-position="21">
+                <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
               </first_editor>
               <second_editor />
             </state>
@@ -166,8 +126,8 @@
         <option value="$PROJECT_DIR$/source/_posts/2018-11-15-vueserve.md" />
         <option value="$PROJECT_DIR$/source/_posts/2018-11-15-npm.md" />
         <option value="$PROJECT_DIR$/source/_posts/2018-12-21-axios.md" />
-        <option value="$PROJECT_DIR$/source/_posts/2018-12-26-react1.md" />
         <option value="$PROJECT_DIR$/source/_posts/2018-12-19-coding-quality.md" />
+        <option value="$PROJECT_DIR$/source/_posts/2018-12-26-react1.md" />
       </list>
     </option>
   </component>
@@ -291,12 +251,12 @@
       <workItem from="1545603509607" duration="4891000" />
       <workItem from="1545822543574" duration="611000" />
       <workItem from="1546125630408" duration="1595000" />
-      <workItem from="1546128569738" duration="204000" />
+      <workItem from="1546128569738" duration="1242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30682000" />
+    <option name="totallyTimeSpent" value="31720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -520,21 +480,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/2018-12-26-react1.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/2018-12-19-coding-quality.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="273">
-            <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <first_editor relative-caret-position="105">
+            <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/2018-12-19-coding-quality.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/2018-12-26-react1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="273">
-            <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <first_editor relative-caret-position="21">
+            <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
           </first_editor>
           <second_editor />
         </state>
