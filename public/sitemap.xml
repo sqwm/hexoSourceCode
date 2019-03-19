@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2019/03/19/android-apk/</loc>
+    
+    <lastmod>2019-03-19T04:58:51.595Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/03/15/code-push/</loc>
     
     <lastmod>2019-03-15T05:01:50.329Z</lastmod>
@@ -51,14 +58,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/11/19/string/</loc>
+    <loc>http://yoursite.com/2018/12/19/coding-quality/</loc>
     
     <lastmod>2019-03-14T04:52:58.567Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/12/19/coding-quality/</loc>
+    <loc>http://yoursite.com/2018/11/19/string/</loc>
     
     <lastmod>2019-03-14T04:52:58.567Z</lastmod>
     
