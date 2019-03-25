@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-19T04:58:51.595Z</updated>
+  <updated>2019-03-25T04:35:32.519Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于RN的安卓权限配置</title>
+    <link href="http://yoursite.com/2019/03/25/android-manifest/"/>
+    <id>http://yoursite.com/2019/03/25/android-manifest/</id>
+    <published>2019-03-25T04:26:09.000Z</published>
+    <updated>2019-03-25T04:35:32.519Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-文档目的"><a href="#1-文档目的" class="headerlink" title="1.文档目的"></a>1.文档目的</h2><p>基于React Native的权限配置,在开发安卓app的过程中需要访问安卓手机硬件服务的时候,都会用到权限,比如拍照,定位,手机通讯录等,这里只记录添加安卓权限的例子,ios暂不考虑</p><h2 id="2-内容梳理"><a href="#2-内容梳理" class="headerlink" title="2.内容梳理"></a>2.内容梳理</h2><p>权限配置文件android/app/src/main/AndroidManifest.xml,添加对应权限如下:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;uses-permission android:name=&quot;android.permission.ACCESS_FINE_LOCATION&quot; /&gt;</span><br></pre></td></tr></table></figure></p><p>那么在具体逻辑中需要用到该权限时,手机就会自动询问用户是否允许开启该权限,具体逻辑如下:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">_getCurrentLocation = async () =&gt; &#123;</span><br><span class="line">   navigator.geolocation.getCurrentPosition(location =&gt; &#123;</span><br><span class="line">     console.log(location)</span><br><span class="line">   &#125;)</span><br><span class="line"> &#125;</span><br></pre></td></tr></table></figure></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;1-文档目的&quot;&gt;&lt;a href=&quot;#1-文档目的&quot; class=&quot;headerlink&quot; title=&quot;1.文档目的&quot;&gt;&lt;/a&gt;1.文档目的&lt;/h2&gt;&lt;p&gt;基于React Native的权限配置,在开发安卓app的过程中需要访问安卓手机硬件服务的时候,都会用到权限
+      
+    
+    </summary>
+    
+    
+      <category term="tools" scheme="http://yoursite.com/tags/tools/"/>
+    
+  </entry>
   
   <entry>
     <title>基于React Native的android打包</title>
@@ -442,29 +465,6 @@
       
       
         &lt;h2 id=&quot;1-工作流的状态&quot;&gt;&lt;a href=&quot;#1-工作流的状态&quot; class=&quot;headerlink&quot; title=&quot;1.工作流的状态&quot;&gt;&lt;/a&gt;1.工作流的状态&lt;/h2&gt;&lt;p&gt;要使用git进行版本控制，必须深刻理解并认识git工作流中的几个状态，如图（1）所示。&lt;br
-      
-    
-    </summary>
-    
-    
-      <category term="Git" scheme="http://yoursite.com/tags/Git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Git系列之本地仓库</title>
-    <link href="http://yoursite.com/2018/06/14/git2/"/>
-    <id>http://yoursite.com/2018/06/14/git2/</id>
-    <published>2018-06-14T13:48:30.000Z</published>
-    <updated>2019-03-14T04:52:58.549Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="1-初始化本地仓库"><a href="#1-初始化本地仓库" class="headerlink" title="1.初始化本地仓库"></a>1.初始化本地仓库</h2><p>本地新建一个项目文件夹test,并在该文件夹中点击右键打开git bash,用git init命令来初始化git仓库，如图（1）所示。初始化后默认是master分支。<br><img src="/2018/06/14/git2/image001.png" title="this is first image"></p><p><center><strong>图（1）</strong></center><br>初始化仓库配置如图（2）所示【没有配置全局作用域的需要此步骤】<br><img src="/2018/06/14/git2/image002.png" title="this is first image"></p><p><center><strong>图（2）</strong></center><br>本地仓库现在什么也没有，我们可以新建一个文件README.txt，便于观察。添加修改并提交至HEAD，如何（3）所示。<br><img src="/2018/06/14/git2/image003.png" title="this is first image"></p><p><center><strong>图（3）</strong></center></p><h2 id="2-推送本地仓库至github"><a href="#2-推送本地仓库至github" class="headerlink" title="2.推送本地仓库至github"></a>2.推送本地仓库至github</h2><p>先登录github官网，并创建一个空的同名项目test【注意不要勾选README.txt】。<br>复制项目的git地址（如：<a href="mailto:git@github.com" target="_blank" rel="noopener">git@github.com</a>:zhuxiaobotongxue/test.git）。<br>在git bash中执行命令如图（4）所示【注意首次提交要有-u参数】。<br><img src="/2018/06/14/git2/image004.png" title="this is first image"></p><p><center><strong>图（4）</strong></center><br>此时刷新github仓库，就可以看到内容提交成功了。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;1-初始化本地仓库&quot;&gt;&lt;a href=&quot;#1-初始化本地仓库&quot; class=&quot;headerlink&quot; title=&quot;1.初始化本地仓库&quot;&gt;&lt;/a&gt;1.初始化本地仓库&lt;/h2&gt;&lt;p&gt;本地新建一个项目文件夹test,并在该文件夹中点击右键打开git bash,用git
       
     
     </summary>
