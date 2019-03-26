@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-25T04:35:32.519Z</updated>
+  <updated>2019-03-26T04:56:29.658Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>theme配色</title>
+    <link href="http://yoursite.com/2019/03/26/theme/"/>
+    <id>http://yoursite.com/2019/03/26/theme/</id>
+    <published>2019-03-26T04:32:40.000Z</published>
+    <updated>2019-03-26T04:56:29.658Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-文档目的"><a href="#1-文档目的" class="headerlink" title="1.文档目的"></a>1.文档目的</h2><p>收集整理常用样式,便于通用配置出简约大气的页面<br>参考网址:<br><a href="https://flatuicolors.com/palette/defo" target="_blank" rel="noopener">Flat UI 色表</a>,<a href="https://metrocolor.live/index.html" target="_blank" rel="noopener">香港地铁色</a>,<a href="https://sendwithses.gitbook.io/helpdocs/random-stuff/easy-to-remember-color-guide-for-non-designers" target="_blank" rel="noopener">经验配色法则</a></p><h2 id="2-内容梳理"><a href="#2-内容梳理" class="headerlink" title="2.内容梳理"></a>2.内容梳理</h2><p>基于ES6语法配置常用颜色值如下:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">export const Colors = &#123;</span><br><span class="line">  &lt;!-- Flat UI 色表 --&gt;</span><br><span class="line">  Turquoise:&apos;#1abc9c&apos;,</span><br><span class="line">  GreenSea: &apos;#16a085&apos;</span><br><span class="line">  &lt;!-- 经验配色法则 --&gt;</span><br><span class="line">  &lt;!-- 主题色:深色使用cf69 --&gt;</span><br><span class="line">  Purple: &apos;#9966ff&apos;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;1-文档目的&quot;&gt;&lt;a href=&quot;#1-文档目的&quot; class=&quot;headerlink&quot; title=&quot;1.文档目的&quot;&gt;&lt;/a&gt;1.文档目的&lt;/h2&gt;&lt;p&gt;收集整理常用样式,便于通用配置出简约大气的页面&lt;br&gt;参考网址:&lt;br&gt;&lt;a href=&quot;https://f
+      
+    
+    </summary>
+    
+    
+      <category term="tools" scheme="http://yoursite.com/tags/tools/"/>
+    
+  </entry>
   
   <entry>
     <title>基于RN的安卓权限配置</title>
@@ -442,29 +465,6 @@
       
       
         &lt;h2 id=&quot;1-创建本地分支并推送至github&quot;&gt;&lt;a href=&quot;#1-创建本地分支并推送至github&quot; class=&quot;headerlink&quot; title=&quot;1.创建本地分支并推送至github&quot;&gt;&lt;/a&gt;1.创建本地分支并推送至github&lt;/h2&gt;&lt;p&gt;从maste
-      
-    
-    </summary>
-    
-    
-      <category term="Git" scheme="http://yoursite.com/tags/Git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Git系列之撤销</title>
-    <link href="http://yoursite.com/2018/06/14/git3/"/>
-    <id>http://yoursite.com/2018/06/14/git3/</id>
-    <published>2018-06-14T14:05:42.000Z</published>
-    <updated>2019-03-14T04:52:58.552Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="1-工作流的状态"><a href="#1-工作流的状态" class="headerlink" title="1.工作流的状态"></a>1.工作流的状态</h2><p>要使用git进行版本控制，必须深刻理解并认识git工作流中的几个状态，如图（1）所示。<br><img src="/2018/06/14/git3/image001.png" title="this is first image"></p><p><center><strong>图（1）</strong></center><br>本地环境可以细分为3中状态：【功能尚未完毕之前，不用轻易提交至远程】<br><strong>工作区</strong>，修改文档尚未添加至版本控制<br><strong>暂存区</strong>，修改文档已添加至版本控制，但尚未提交至版本库<br><strong>版本库</strong>，修改文档提交至版本库，文档状态变化<br>远程环境只有一种状态：<br><strong>远程分支</strong>，修改文档被提交至远程代码仓库<br>【名词辨识】<br>master/branch : 分支，master为项目默认分支，也叫主分支<br>head : 本地当前版本库的指针，指向最新的提交<br>origin : 默认的远程版本库名称</p><h2 id="2-工作区撤销修改"><a href="#2-工作区撤销修改" class="headerlink" title="2.工作区撤销修改"></a>2.工作区撤销修改</h2><p>该状态尚未添加至版本控制，即尚未执行git add，此时撤销不可恢复。<br>撤销执行命令git checkout .即可。</p><h2 id="3-暂存区撤销修改"><a href="#3-暂存区撤销修改" class="headerlink" title="3.暂存区撤销修改"></a>3.暂存区撤销修改</h2><p>该状态已添加至版本控制，即已执行git add，修改内容处于暂存区<br>撤销执行命令git reset HEAD .即可，原理是用版本库内容替换缓存区内容，同时工作目录修改保留</p><h2 id="4-版本库撤销修改"><a href="#4-版本库撤销修改" class="headerlink" title="4.版本库撤销修改"></a>4.版本库撤销修改</h2><p>该状态已添加至版本库，即已执行git commit,修改内容处于版本库。<br>撤销命令如下：<br>git reset –hard HEAD~1    撤销提交并删除修改<br>git reset –soft HEAD~1    撤销提交并将修改恢复至<strong>暂存区</strong><br>git reset HEAD~1        撤销提交并就修改恢复至<strong>工作区</strong></p><h2 id="5-远程分支撤销修改"><a href="#5-远程分支撤销修改" class="headerlink" title="5.远程分支撤销修改"></a>5.远程分支撤销修改</h2><p>思路：先回退本地版本库至指定版本库【同4】，再强制推送指定版本库内容至远程分支，如下图所示。<br><img src="/2018/06/14/git3/image002.png" title="this is first image"><br>也可以用–soft保持修改内容至暂存区，如下图所示。<br><img src="/2018/06/14/git3/image003.png" title="this is first image"></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;1-工作流的状态&quot;&gt;&lt;a href=&quot;#1-工作流的状态&quot; class=&quot;headerlink&quot; title=&quot;1.工作流的状态&quot;&gt;&lt;/a&gt;1.工作流的状态&lt;/h2&gt;&lt;p&gt;要使用git进行版本控制，必须深刻理解并认识git工作流中的几个状态，如图（1）所示。&lt;br
       
     
     </summary>

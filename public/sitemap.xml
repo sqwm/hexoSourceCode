@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2019/03/26/theme/</loc>
+    
+    <lastmod>2019-03-26T04:56:29.658Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/03/25/android-manifest/</loc>
     
     <lastmod>2019-03-25T04:35:32.519Z</lastmod>
@@ -30,14 +37,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/12/26/react1/</loc>
+    <loc>http://yoursite.com/2019/03/14/serve/</loc>
     
     <lastmod>2019-03-14T04:52:58.569Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/03/14/serve/</loc>
+    <loc>http://yoursite.com/2018/12/26/react1/</loc>
     
     <lastmod>2019-03-14T04:52:58.569Z</lastmod>
     
