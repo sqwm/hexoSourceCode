@@ -1,7 +1,7 @@
 ---
 title: 开发者工具
 date: 2018-06-29 20:49:28
-tags: tools
+tags: GoogleDev
 ---
 ## 1.Elements
 ctrl+shift+c		选取dom元素

@@ -1,7 +1,7 @@
 ---
 title: 基于React Native的android打包
 date: 2019-03-19 12:39:12
-tags: tools
+tags: React
 ---
 ## 1.文档目的
 打包生成apk安装包配置历来比较复杂,这里简单记录入门配置,方便查看.
