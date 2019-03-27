@@ -97,7 +97,7 @@ busuanzi: true ## If you want to use Busuanzi page views please set the value to
 
 # About page
 about:
-  photo_url: http://temp.im/200x200 ## Your photo e.g. http://obzf7z93c.bkt.clouddn.com/themeauthor.jpg
+  photo_url: http://b127.photo.store.qq.com/psb?/V132fXdl0xAJIM/2JuJr1mSkHx*wky6clMImxr8KEfyK8wACzG1pMx5UcM!/b/dNDbtUvXBgAA&bo=FQEVAQAAAAABByA!&rf=viewer_4 ## Your photo e.g. http://obzf7z93c.bkt.clouddn.com/themeauthor.jpg
   items:
   - label: email
     url: mailto:zhuxiaobotongxue@gmail.com
