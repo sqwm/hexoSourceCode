@@ -22,12 +22,12 @@ menu:
 
 # Sidebar
 widgets:
-  - recent_posts
   - category
   - tag
   - archive
-  #- weibo
   - links
+  #- recent_posts
+  #- weibo
 
 # Toc
 toc:
