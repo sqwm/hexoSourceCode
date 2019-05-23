@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://yoursite.com/2019/03/26/theme/</loc>
-    <lastmod>2019-05-06</lastmod>
-  </url>  <url>
-    <loc>http://yoursite.com/2019/05/04/layout/</loc>
-    <lastmod>2019-05-04</lastmod>
-  </url>  <url>
     <loc>http://yoursite.com/2019/04/21/style/</loc>
-    <lastmod>2019-05-04</lastmod>
+    <lastmod>2019-05-23</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/04/21/icon/</loc>
-    <lastmod>2019-04-21</lastmod>
+    <lastmod>2019-05-17</lastmod>
+  </url>  <url>
+    <loc>http://yoursite.com/2019/05/04/layout/</loc>
+    <lastmod>2019-05-06</lastmod>
+  </url>  <url>
+    <loc>http://yoursite.com/2019/03/26/theme/</loc>
+    <lastmod>2019-05-06</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/04/11/json-server/</loc>
     <lastmod>2019-04-12</lastmod>
