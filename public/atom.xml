@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-27T05:34:47.519Z</updated>
+  <updated>2019-06-03T00:33:17.256Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2019/05/27/px/"/>
     <id>http://yoursite.com/2019/05/27/px/</id>
     <published>2019-05-27T05:24:47.000Z</published>
-    <updated>2019-05-27T05:34:47.519Z</updated>
+    <updated>2019-06-03T00:33:17.256Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="1-文档目的"><a href="#1-文档目的" class="headerlink" title="1.文档目的"></a>1.文档目的</h2><p>精准清晰的理论基础有助于培养技术自信。<br>参考网址:<a href="https://github.com/amfe/lib-flexible" target="_blank" rel="noopener">rem</a></p><h2 id="2-内容梳理"><a href="#2-内容梳理" class="headerlink" title="2.内容梳理"></a>2.内容梳理</h2><p>H5适配手机主要有两个维度：<br>（1）适配不同像素密度(1像素对应多少物理像素,比如3倍屏@3x, 即1px对应9个物理像素[3x3])<br>（2）适配不同大小屏幕<br>问题一：图片如何在3倍屏和2倍屏上显示不失真？<br>答：1个图片像素对应1个物理像素，图片就不会失真[精准匹配需要借助媒体查询等手段]，简单粗暴的适配方案，就是针对所有屏幕，都只提供最高清图片。<br>问题二：如何适配不同大小屏幕？<br>答：原则是确保页面布局的度量与屏幕大小保持一定比例。例如通常设计稿是750像素，我们需要按比例还原（x / 750，eg: 75 / 750 = 10% ）。<br>实践中不能直接用百分比，因为它总是需要一个参照量，而且边框不支持百分比等问题。<br>rem:等于根元素font-size属性的计算值<br>vw/vh: 1vw= 1%屏幕宽度 完美方案。<br>问题三：如何方便将px转换为vw?<br>答：<a href="https://www.npmjs.com/package/postcss-px-to-viewport" target="_blank" rel="noopener">postcss-px-to-viewport插件</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-文档目的"><a href="#1-文档目的" class="headerlink" title="1.文档目的"></a>1.文档目的</h2><p>精准清晰的理论基础有助于培养技术自信。<br>参考网址:<a href="http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&amp;mid=2650589824&amp;idx=1&amp;sn=8e665900ff5ad912707e215a0bfedc3f&amp;chksm=8891daa4bfe653b2891aab2bcfa4b51129a65ee0ade08a65545043feaea6813291320063b8d4&amp;mpshare=1&amp;scene=23&amp;srcid=0602q4MMmCCe6pPUE1XNnYhH#rd" target="_blank" rel="noopener">像素理论详解</a>,<a href="https://github.com/amfe/lib-flexible" target="_blank" rel="noopener">rem</a></p><h2 id="2-内容梳理"><a href="#2-内容梳理" class="headerlink" title="2.内容梳理"></a>2.内容梳理</h2><p>###2.1 核心概念解读:<br><strong>英寸:</strong>屏幕对角线的长度,1英寸=2.54厘米<br><strong>分辨率:</strong>表示对象在垂直和水平上像素(物理像素)点数的乘积(注:清晰度还与尺寸有关)<br><strong>PPI:</strong>表示每英寸包括的像素(物理像素)数,反映了清晰度<br><strong>设备独立像素:</strong>为保证新老设备显示效果基本一致,新设备在增大物理像素的同时,并不增加”设备独立像素”,故1设备独立像素等于若干(@2x,@3x)物理像素.ReactNative开发中样式单位(dp)就是设备独立像素(ios尺寸单位pt,android尺寸单位dp同理),而UI设计的原型图一般是基于iphone6的物理像素,为了适配所有机型，我们在写样式时需要把物理像素转换为设备独立像素.浏览器开发者工具显示的移动端设备像素就是设备独立像素.web端开发中,当页面缩放比例为100%时,一个css像素就等于一个设备独立像素.<br><strong>设备像素比(dpr):</strong>物理像素和设备独立像素的比值<br><strong>视口:</strong>布局视口(css依赖的视口),视觉视口(通过屏幕可以看到的区域),理想视口(当页面缩放比例为100%时,理想视口=视觉视口,CSS像素=设备独立像素)<br><strong>安全区域:</strong>为圆角,刘海和小黑条设计的解决方案</p><p>###2.2 H5适配手机主要有两个维度：<br>（1）适配不同像素密度(1像素对应多少物理像素,比如3倍屏@3x, 即1px对应9个物理像素[3x3])<br>（2）适配不同大小屏幕<br>问题一：图片如何在3倍屏和2倍屏上显示不失真？<br>答：1个图片像素对应1个物理像素，图片就不会失真[精准匹配需要借助媒体查询等手段]，简单粗暴的适配方案，就是针对所有屏幕，都只提供最高清图片,还有img标签的srcset等高级属性的应用。<br>问题二：如何适配不同大小屏幕？<br>答：原则是确保页面布局的度量与屏幕大小保持一定比例。例如通常设计稿是750像素，我们需要按比例还原（x / 750，eg: 75 / 750 = 10% ）。<br>实践中不能直接用百分比，因为它总是需要一个参照量，而且边框不支持百分比等问题。<br>rem:依赖根元素font-size属性的计算值<br>vw/vh: 1vw= 1%屏幕宽度 完美方案。<br>问题三：如何方便将px转换为vw?<br>答：<a href="https://www.npmjs.com/package/postcss-px-to-viewport" target="_blank" rel="noopener">postcss-px-to-viewport插件</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;1-文档目的&quot;&gt;&lt;a href=&quot;#1-文档目的&quot; class=&quot;headerlink&quot; title=&quot;1.文档目的&quot;&gt;&lt;/a&gt;1.文档目的&lt;/h2&gt;&lt;p&gt;精准清晰的理论基础有助于培养技术自信。&lt;br&gt;参考网址:&lt;a href=&quot;https://github.co
+        &lt;h2 id=&quot;1-文档目的&quot;&gt;&lt;a href=&quot;#1-文档目的&quot; class=&quot;headerlink&quot; title=&quot;1.文档目的&quot;&gt;&lt;/a&gt;1.文档目的&lt;/h2&gt;&lt;p&gt;精准清晰的理论基础有助于培养技术自信。&lt;br&gt;参考网址:&lt;a href=&quot;http://mp.weixin.
       
     
     </summary>
