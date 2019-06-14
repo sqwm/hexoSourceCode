@@ -117,9 +117,9 @@ about:
 
 # Links widget. Empty links will hide widget.
 links:
-  - title: site-name1
-    url: http://www.example1.com/
-  - title: site-name2
-    url: http://www.example2.com/
-  - title: site-name3
-    url: http://www.example3.com/
+  - title: 阮一峰js博客
+    url: http://www.ruanyifeng.com/blog/javascript/
+  - title: ES6教程
+    url: http://es6.ruanyifeng.com/
+  - title: Github中文社区
+    url: https://www.githubs.cn/
