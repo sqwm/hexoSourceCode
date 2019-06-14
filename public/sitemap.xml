@@ -2,16 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+<<<<<<< HEAD
     <loc>http://yoursite.com/2019/06/11/module/</loc>
     
     <lastmod>2019-06-11T14:59:03.834Z</lastmod>
+=======
+    <loc>http://yoursite.com/2019/06/12/class/</loc>
+    
+    <lastmod>2019-06-12T06:58:05.683Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/06/12/ios/</loc>
+    
+    <lastmod>2019-06-12T05:30:23.179Z</lastmod>
+>>>>>>> 023b9c9c5b5afe03fde020365e3ea2008fedf898
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2019/04/21/style/</loc>
     
+<<<<<<< HEAD
     <lastmod>2019-06-02T14:18:43.048Z</lastmod>
+=======
+    <lastmod>2019-06-12T03:35:38.335Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/05/27/px/</loc>
+    
+    <lastmod>2019-06-03T00:33:17.256Z</lastmod>
+>>>>>>> 023b9c9c5b5afe03fde020365e3ea2008fedf898
     
   </url>
   
