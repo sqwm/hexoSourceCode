@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-<<<<<<< HEAD
-    <loc>http://yoursite.com/2019/06/11/module/</loc>
-    <lastmod>2019-06-11T14:59:03.834Z</lastmod>
+    <loc>http://yoursite.com/2019/06/15/design/</loc>
+    <lastmod>2019-06-15T07:40:19.073Z</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/04/21/style/</loc>
-    <lastmod>2019-06-02T14:18:43.048Z</lastmod>
-=======
+    <loc>http://yoursite.com/2019/06/15/prototype/</loc>
+    <lastmod>2019-06-15T04:17:17.050Z</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/06/12/class/</loc>
-    <lastmod>2019-06-12</lastmod>
+    <lastmod>2019-06-15T00:58:09.522Z</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/06/12/ios/</loc>
-    <lastmod>2019-06-12</lastmod>
+    <loc>http://yoursite.com/2019/06/14/this/</loc>
+    <lastmod>2019-06-14T09:43:08.070Z</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/04/21/style/</loc>
-    <lastmod>2019-06-12</lastmod>
+    <lastmod>2019-06-14T03:05:17.030Z</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/05/27/px/</loc>
-    <lastmod>2019-06-03</lastmod>
->>>>>>> 023b9c9c5b5afe03fde020365e3ea2008fedf898
+    <lastmod>2019-06-14T03:05:17.030Z</lastmod>
+  </url>  <url>
+    <loc>http://yoursite.com/2019/06/12/ios/</loc>
+    <lastmod>2019-06-14T03:05:17.030Z</lastmod>
+  </url>  <url>
+    <loc>http://yoursite.com/2019/06/11/module/</loc>
+    <lastmod>2019-06-11T14:59:03.834Z</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/04/21/icon/</loc>
     <lastmod>2019-06-02T14:18:43.047Z</lastmod>
@@ -30,20 +34,14 @@
     <loc>http://yoursite.com/2019/03/26/theme/</loc>
     <lastmod>2019-05-04T02:08:26.350Z</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/04/11/json-server/</loc>
-    <lastmod>2019-04-21T08:04:47.913Z</lastmod>
-  </url>  <url>
     <loc>http://yoursite.com/2019/03/27/echarts/</loc>
     <lastmod>2019-04-21T08:04:47.913Z</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/04/04/pdf-view/</loc>
     <lastmod>2019-04-21T08:04:47.913Z</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/03/15/code-push/</loc>
-    <lastmod>2019-04-21T08:04:47.903Z</lastmod>
-  </url>  <url>
-    <loc>http://yoursite.com/2019/03/25/android-manifest/</loc>
-    <lastmod>2019-04-21T08:04:47.903Z</lastmod>
+    <loc>http://yoursite.com/2019/04/11/json-server/</loc>
+    <lastmod>2019-04-21T08:04:47.913Z</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/03/19/android-apk/</loc>
     <lastmod>2019-04-21T08:04:47.903Z</lastmod>
@@ -51,25 +49,31 @@
     <loc>http://yoursite.com/2019/03/14/serve/</loc>
     <lastmod>2019-04-21T08:04:47.903Z</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2018/11/15/keymap/</loc>
-    <lastmod>2019-04-21T08:04:47.893Z</lastmod>
+    <loc>http://yoursite.com/2019/03/15/code-push/</loc>
+    <lastmod>2019-04-21T08:04:47.903Z</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2018/12/21/axios/</loc>
+    <loc>http://yoursite.com/2019/03/25/android-manifest/</loc>
+    <lastmod>2019-04-21T08:04:47.903Z</lastmod>
+  </url>  <url>
+    <loc>http://yoursite.com/2018/12/19/coding-quality/</loc>
     <lastmod>2019-04-21T08:04:47.893Z</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2018/11/15/hexo/</loc>
     <lastmod>2019-04-21T08:04:47.893Z</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2018/12/19/coding-quality/</loc>
+    <loc>http://yoursite.com/2018/12/21/axios/</loc>
     <lastmod>2019-04-21T08:04:47.893Z</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2018/11/15/npm/</loc>
     <lastmod>2019-04-21T08:04:47.893Z</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2018/06/29/googledev/</loc>
+    <loc>http://yoursite.com/2018/11/15/vueserve/</loc>
     <lastmod>2019-04-21T08:04:47.893Z</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2018/11/15/vueserve/</loc>
+    <loc>http://yoursite.com/2018/11/15/keymap/</loc>
+    <lastmod>2019-04-21T08:04:47.893Z</lastmod>
+  </url>  <url>
+    <loc>http://yoursite.com/2018/06/29/googledev/</loc>
     <lastmod>2019-04-21T08:04:47.893Z</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2018/12/26/react1/</loc>
