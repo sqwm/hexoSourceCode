@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://yoursite.com/2019/07/17/postMessage/</loc>
+    <lastmod>2019-07-17</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/07/13/ts-vue/</loc>
     <lastmod>2019-07-13</lastmod>
   </url>  <url>
@@ -10,10 +13,10 @@
     <loc>http://yoursite.com/2019/07/08/util/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/06/30/native/</loc>
+    <loc>http://yoursite.com/2019/06/30/react/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/06/30/react/</loc>
+    <loc>http://yoursite.com/2019/06/30/native/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/06/15/prototype/</loc>
@@ -37,13 +40,13 @@
     <loc>http://yoursite.com/2019/06/11/module/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/04/11/json-server/</loc>
-    <lastmod>2019-07-08</lastmod>
-  </url>  <url>
     <loc>http://yoursite.com/2019/04/04/pdf-view/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/04/21/icon/</loc>
+    <lastmod>2019-07-08</lastmod>
+  </url>  <url>
+    <loc>http://yoursite.com/2019/04/11/json-server/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/04/21/style/</loc>
@@ -52,10 +55,10 @@
     <loc>http://yoursite.com/2019/03/27/echarts/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/03/26/theme/</loc>
+    <loc>http://yoursite.com/2019/03/25/android-manifest/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/03/25/android-manifest/</loc>
+    <loc>http://yoursite.com/2019/03/26/theme/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/03/19/android-apk/</loc>
@@ -76,10 +79,10 @@
     <loc>http://yoursite.com/2018/12/21/axios/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2018/11/19/array/</loc>
+    <loc>http://yoursite.com/2018/11/19/string/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2018/11/19/string/</loc>
+    <loc>http://yoursite.com/2018/11/19/array/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2018/12/19/coding-quality/</loc>
