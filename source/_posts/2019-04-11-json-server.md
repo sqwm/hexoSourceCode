@@ -1,7 +1,7 @@
 ---
 title: json
 date: 2019-04-11 12:14:03
-tags: JSON
+tags: tool
 ---
 ## 1.文档目的
 汇总前端JSON数据模拟技术,本文介绍三种技术:**json server, Easy mock, github api v3**.
