@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://yoursite.com/2019/06/15/design/</loc>
+    <lastmod>2019-08-28</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/04/11/json-server/</loc>
     <lastmod>2019-08-16</lastmod>
   </url>  <url>
@@ -30,9 +33,6 @@
   </url>  <url>
     <loc>http://yoursite.com/2018/06/29/googledev/</loc>
     <lastmod>2019-08-16</lastmod>
-  </url>  <url>
-    <loc>http://yoursite.com/2019/06/15/design/</loc>
-    <lastmod>2019-07-31</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/07/31/h5plus-app/</loc>
     <lastmod>2019-07-31</lastmod>
@@ -100,10 +100,10 @@
     <loc>http://yoursite.com/2018/12/19/sleep-quality/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2018/11/19/string/</loc>
+    <loc>http://yoursite.com/2018/11/19/array/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2018/11/19/array/</loc>
+    <loc>http://yoursite.com/2018/11/19/string/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2018/06/25/git6/</loc>
