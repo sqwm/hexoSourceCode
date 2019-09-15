@@ -7,6 +7,7 @@ tags: JS
 一直想写一篇关于编码习惯和编码质量的博文，却一直没有动手，今天终于开启了这个课题的探究，可能这种情怀就像是一个有洁癖的人对于卫生环境的追求一样，作为一个编码人员也会对自己编写的代码有一种追求质量的情怀。可能这种追求并不是一两天或者几句话能说明白的事情，所有我会持续探究并完善这篇博文，希望可以有所帮助
 参考网址：
 [雅虎军规35条](https://www.jianshu.com/p/4cbcd202a591)、
+[Github编码规范](http://alloyteam.github.io/CodeGuide/)、
 [JavaScript 编码规范](https://github.com/yuche/javascript)、
 [eslint规则](http://eslint.cn/docs/rules/)、
 [js编码风格（阮一峰）](http://www.ruanyifeng.com/blog/2012/04/javascript_programming_style.html)
