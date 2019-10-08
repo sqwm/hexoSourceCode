@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2019/07/08/util/</loc>
+    
+    <lastmod>2019-10-08T08:09:04.932Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/03/14/serve/</loc>
     
     <lastmod>2019-10-08T06:19:07.235Z</lastmod>
@@ -89,13 +96,6 @@
     <loc>http://yoursite.com/2019/07/31/h5plus-app/</loc>
     
     <lastmod>2019-07-31T08:02:10.347Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/07/08/util/</loc>
-    
-    <lastmod>2019-07-19T08:30:51.614Z</lastmod>
     
   </url>
   
@@ -226,14 +226,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/12/26/redux/</loc>
+    <loc>http://yoursite.com/2019/03/15/code-push/</loc>
     
     <lastmod>2019-07-08T01:25:27.648Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/03/15/code-push/</loc>
+    <loc>http://yoursite.com/2018/12/26/redux/</loc>
     
     <lastmod>2019-07-08T01:25:27.648Z</lastmod>
     

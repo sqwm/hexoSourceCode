@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://yoursite.com/2019/07/08/util/</loc>
+    <lastmod>2019-10-08</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/03/14/serve/</loc>
     <lastmod>2019-10-08</lastmod>
   </url>  <url>
@@ -39,9 +42,6 @@
   </url>  <url>
     <loc>http://yoursite.com/2019/07/31/h5plus-app/</loc>
     <lastmod>2019-07-31</lastmod>
-  </url>  <url>
-    <loc>http://yoursite.com/2019/07/08/util/</loc>
-    <lastmod>2019-07-19</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/07/17/postMessage/</loc>
     <lastmod>2019-07-17</lastmod>
@@ -94,10 +94,10 @@
     <loc>http://yoursite.com/2019/03/19/android-apk/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2018/12/26/redux/</loc>
+    <loc>http://yoursite.com/2019/03/15/code-push/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/03/15/code-push/</loc>
+    <loc>http://yoursite.com/2018/12/26/redux/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2018/12/19/sleep-quality/</loc>
