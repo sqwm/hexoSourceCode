@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2019/10/15/vuex/</loc>
+    
+    <lastmod>2019-10-15T02:49:04.659Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/07/08/util/</loc>
     
     <lastmod>2019-10-08T08:50:04.644Z</lastmod>
@@ -170,14 +177,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/05/27/px/</loc>
+    <loc>http://yoursite.com/2019/06/11/module/</loc>
     
     <lastmod>2019-07-08T01:25:27.655Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/06/11/module/</loc>
+    <loc>http://yoursite.com/2019/05/27/px/</loc>
     
     <lastmod>2019-07-08T01:25:27.655Z</lastmod>
     
@@ -205,14 +212,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/03/25/android-manifest/</loc>
+    <loc>http://yoursite.com/2019/03/26/theme/</loc>
     
     <lastmod>2019-07-08T01:25:27.652Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/03/26/theme/</loc>
+    <loc>http://yoursite.com/2019/03/25/android-manifest/</loc>
     
     <lastmod>2019-07-08T01:25:27.652Z</lastmod>
     
