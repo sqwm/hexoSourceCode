@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/12/19/coding-quality/</loc>
+    
+    <lastmod>2019-10-21T09:35:38.221Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/06/25/git6/</loc>
+    
+    <lastmod>2019-10-15T03:32:03.182Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/10/15/vuex/</loc>
     
     <lastmod>2019-10-15T02:49:04.659Z</lastmod>
@@ -75,13 +89,6 @@
     <loc>http://yoursite.com/2019/06/15/design/</loc>
     
     <lastmod>2019-09-15T08:50:52.834Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/12/19/coding-quality/</loc>
-    
-    <lastmod>2019-09-15T02:28:46.482Z</lastmod>
     
   </url>
   
@@ -170,14 +177,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/05/04/layout/</loc>
+    <loc>http://yoursite.com/2019/06/11/module/</loc>
     
     <lastmod>2019-07-08T01:25:27.655Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/06/11/module/</loc>
+    <loc>http://yoursite.com/2019/05/04/layout/</loc>
     
     <lastmod>2019-07-08T01:25:27.655Z</lastmod>
     
@@ -212,14 +219,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/03/26/theme/</loc>
+    <loc>http://yoursite.com/2019/03/25/android-manifest/</loc>
     
     <lastmod>2019-07-08T01:25:27.652Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/03/25/android-manifest/</loc>
+    <loc>http://yoursite.com/2019/03/26/theme/</loc>
     
     <lastmod>2019-07-08T01:25:27.652Z</lastmod>
     
@@ -264,13 +271,6 @@
     <loc>http://yoursite.com/2018/11/19/string/</loc>
     
     <lastmod>2019-07-08T01:25:27.646Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/06/25/git6/</loc>
-    
-    <lastmod>2019-07-08T01:25:27.643Z</lastmod>
     
   </url>
   

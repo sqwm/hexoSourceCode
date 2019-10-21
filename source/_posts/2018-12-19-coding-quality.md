@@ -46,3 +46,130 @@ tags: JS
 新需求[尽量不要改动原代码，做好注释]
 （1）尽量通过继承，适配器，桥接等模式，装饰者模式，外观模式，代理模式，组合模式，代码复用模式等方式扩展新需求
 （2）必须在源代码上修改：做好代码隔离if等
+
+## 5.实用命名举例
+变量命名：推荐使用与业务逻辑不相关的通用命名法
+布尔类型
+场景一：表示可见性、进行中的状态
+```
+{
+  isShow: '是否显示',
+  isVisible: '是否可见',
+  isLoading: '是否处于加载中'
+}
+```
+场景二：属性状态类
+```
+{
+  disabled: '是否禁用',
+  editable: '是否可编辑',
+  clearable: '是否可清除',
+  readonly: '只读',
+  checked: '是否选中',
+  clickable: '是否可点击'
+}
+```
+场景三：配置类、选项类
+```
+{
+  withTab: '是否带选项卡',
+  enableFilter: '开启过滤',
+  allownCustomScale: '允许自定义缩放',
+  shouldClear: '是否清除',
+  canSelectItem: '是否能选中元素',
+  checkJs: '检查Js',
+}
+```
+函数类型
+场景一：事件处理函数
+```
+{
+  onXxClick // 原生事件
+  onSubmit // 提交
+  handleXx // 自定义事件
+  closedEvent // 关闭事件
+  selectAll // 选则所有
+}
+```
+场景二：异步(围绕增删改查)
+```
+{
+  fetchToken // 直接取自异步
+  getUsers // 可能处理加工后
+  createAccount // 创建新对象
+  addUsr // 向已有列表中新增
+  deleteUser // 删除数据
+  removeTag: // 移除某事物，而并不一定会删除
+  updateUsrInfo // 更新
+  res // 异步返回值
+}
+```
+场景三：路由跳转
+```
+{
+  goXx // 跳转
+  switchTab // tab切换
+}
+```
+场景四：框架相关
+```
+{
+  timeFilter // 过滤器
+  storeCtrl // 控制器
+  userFactory // 工程方法
+  getXxByYy // 获取Dom节点
+  formatXx // 格式化数据
+  toggleXx // 切换
+  sliceXx // 截取
+  sortByXx // 排序
+}
+```
+场景五：业务相关
+```
+{
+  users // 用户列表
+  xxList // XX列表
+  item/option/key/index // 单项
+  i/j/k/m/n/x/y/z // 循环相关
+  id // 唯一标识
+  key // 唯一标识
+  index // 下标
+  children // 子节点
+  name // 名称
+  title // 标题
+  desc // 描述
+  label // 显示名称
+  value // 对应值
+  tempData // 临时数据
+  oldVal/newVal // 新旧
+  from/to // 从...到...
+  prev/cur/next // 上一个当前和下一个
+  str // 字符串
+  n // 次数
+  reg // 正则
+  count // 数量
+  src // 源头
+  func // 函数
+  size // 大小
+  start/end 开始结束
+  startDate //开始日期
+  endDate //结束日期
+  startTime //开时时间
+  endTime //结束时间
+}
+```
+场景六：选中项
+```
+{
+  activeTab //当前选中选项卡
+  currentPage // 当前页
+  selectedData // 选中项
+}
+```
+场景七：常量状态
+```
+{
+  LOAD_SUCCESS
+  LOAD_FAIL
+}
+```

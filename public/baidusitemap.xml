@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://yoursite.com/2018/12/19/coding-quality/</loc>
+    <lastmod>2019-10-21</lastmod>
+  </url>  <url>
+    <loc>http://yoursite.com/2018/06/25/git6/</loc>
+    <lastmod>2019-10-15</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2019/10/15/vuex/</loc>
     <lastmod>2019-10-15</lastmod>
   </url>  <url>
@@ -32,9 +38,6 @@
     <lastmod>2019-09-29</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/06/15/design/</loc>
-    <lastmod>2019-09-15</lastmod>
-  </url>  <url>
-    <loc>http://yoursite.com/2018/12/19/coding-quality/</loc>
     <lastmod>2019-09-15</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/03/27/echarts/</loc>
@@ -70,10 +73,10 @@
     <loc>http://yoursite.com/2019/06/14/this/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/05/04/layout/</loc>
+    <loc>http://yoursite.com/2019/06/11/module/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/06/11/module/</loc>
+    <loc>http://yoursite.com/2019/05/04/layout/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/05/27/px/</loc>
@@ -88,10 +91,10 @@
     <loc>http://yoursite.com/2019/04/21/style/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/03/26/theme/</loc>
+    <loc>http://yoursite.com/2019/03/25/android-manifest/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/03/25/android-manifest/</loc>
+    <loc>http://yoursite.com/2019/03/26/theme/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/03/19/android-apk/</loc>
@@ -110,9 +113,6 @@
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2018/11/19/string/</loc>
-    <lastmod>2019-07-08</lastmod>
-  </url>  <url>
-    <loc>http://yoursite.com/2018/06/25/git6/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2018/06/14/git5/</loc>
