@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://yoursite.com/2019/10/31/vueBase/</loc>
+    <lastmod>2019-10-31</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2018/12/19/coding-quality/</loc>
     <lastmod>2019-10-21</lastmod>
   </url>  <url>
@@ -73,13 +76,13 @@
     <loc>http://yoursite.com/2019/06/14/this/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/06/11/module/</loc>
-    <lastmod>2019-07-08</lastmod>
-  </url>  <url>
     <loc>http://yoursite.com/2019/05/04/layout/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/05/27/px/</loc>
+    <lastmod>2019-07-08</lastmod>
+  </url>  <url>
+    <loc>http://yoursite.com/2019/06/11/module/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/04/04/pdf-view/</loc>
